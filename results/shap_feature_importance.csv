@@ -1,0 +1,8 @@
+Feature,Mean_Abs_SHAP
+std_usage,0.58532894
+peak_to_mean_ratio,0.22164136
+mean_usage,0.19977766
+variance_usage,0.1579492
+median_usage,0.15231837
+max_usage,0.122884534
+min_usage,0.11419504
