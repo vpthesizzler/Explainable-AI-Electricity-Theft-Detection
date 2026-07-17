@@ -238,6 +238,14 @@ Vrushabh Patil
 
 Under Review
 
+**Research Area:**
+
+Artificial Intelligence for Smart Grid Security.
+
+**Key Methods:**
+
+Random Forest, XGBoost, SHAP Explainable AI
+
 ---
 
 # Author
