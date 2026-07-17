@@ -65,6 +65,9 @@ SHAP Explainability
 Feature Contribution Analysis
 ```
 
+## Workflow Diagram
+![Workflow](figures/workflow.png)
+
 ---
 
 # Machine Learning Framework
