@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Explainable AI-Based Electricity Theft Detection Using SHAP and Hybrid Machine Learning"
+message: "If you use this repository, please cite this work."
+type: software
+
+authors:
+- family-names: "Patil"
+given-names: "Vrushabh"
+
+repository-code: "YOUR_PAPER_2_GITHUB_LINK"
+
+keywords:
+- Explainable Artificial Intelligence
+- SHAP
+- Machine Learning
+- Smart Grid
+- Electricity Theft Detection
+- XGBoost
+- Random Forest
